@@ -1,3 +1,3 @@
 # Hello-World
 Tutorial repository
-Im writing a bit about myslef
+Im writing a bit about myself
